@@ -1,1 +1,1 @@
-# C23-Activity
+# Box Class
